@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+# weatherApp Project
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Just a simple weather app that showcased my React.js & Redux progress.
 
-### Getting Started
+### How to use weatherApp
 
-There are two methods for getting started with this repo.
+1. Type in a city. 
+2. Dress accordingly.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Key learning points from this project:
+I learned the basics of React & Redux as well as how to vizualize a wireframe before implementing any code.
 
 ```
-> npm install
-> npm start
+> Learned when to use containers vs. components and how to connect React to Redux.
+> Learned how to utilize middlewares and pull API data from Google Maps and openweathermap.org.
+> Understood the basic concepts of reducers and how they work with data, states, and actions.
+> Learned how to extend React { Component } with containers (searchBar, weatherList) and components (googleMaps, Chart).
 ```
+
+Enjoy!
